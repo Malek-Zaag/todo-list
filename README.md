@@ -6,6 +6,8 @@
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
+  <h2>The TodoList</h2>
+  <img alt="Cap" src="https://github.com/Malek-Zaag/todo-list/blob/master/cap.PNG?raw=true" />
 </p>
 
 ## Install
