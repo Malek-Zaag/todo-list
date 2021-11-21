@@ -1,0 +1,22 @@
+#add-btn{
+    position: relative;
+    margin-top: 1rem;
+    left: 85%;
+    top: 40%;
+}
+.btn.btn-danger{
+
+    margin-left: 1em;
+}
+.btn.btn-success{
+    margin-left: 1em;
+}
+.list{
+    box-shadow: 10px 10px 5px grey;
+    border-radius: 10px;
+    list-style: none;
+    margin-bottom: 1em;
+}
+#update-input{
+    margin-bottom: 1em;
+}
